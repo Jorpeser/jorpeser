@@ -1,4 +1,12 @@
-### Hi there 👋
+![gif](programming.gif)
+
+## Hey! I'm Pepe! 👋
+
+I'm a software developer currently working as a web developer with MithrilJS and Node. 
+
+I'm really into any kind of programming and always trying to learn about the newest technologies.
+
+- You can contact me via [email](mailto:pepeperezvalenzuela@gmail.com)
 
 <!--
 **Jorpeser/jorpeser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
