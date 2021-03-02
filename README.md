@@ -1,4 +1,4 @@
-![gif](programming.gif)
+![gif](programmingg.gif)
 
 ## Hey! I'm Pepe! 👋
 
