@@ -2,11 +2,13 @@
 
 ## Hey! I'm Pepe! 👋
 
-I'm a software developer currently working as a web developer with MithrilJS and Node. 
+⚡ I'm a software developer currently working on a personal FullStack project using [PostgreSQL Express React & Node] stack!
 
-I'm really into any kind of programming and always trying to learn about the newest technologies.
+🌱 I have worked as a FullStack developer using [MongoDB Express Vue & Node] stack and as a Frontend developer using MithrilJS
 
-- You can contact me via [email](mailto:pepeperezvalenzuela@gmail.com)
+🤔 I'm really into any kind of programming and always trying to learn about the newest technologies.
+
+- You can contact me via [email](mailto:pepeperezvalenzuela@gmail.com) (pepeperezvalenzuela@gmail.com)
 
 <!--
 **Jorpeser/jorpeser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
