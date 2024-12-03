@@ -2,11 +2,11 @@
 
 ## Hey! I'm Pepe! 👋
 
-⚡ I'm a software developer currently working on a personal FullStack project using [PostgreSQL Express React & Node] stack!
+⚡ I'm a software developer currently working on a personal FullStack project using [React, NextJS & Mongoose] stack!
 
-🌱 I have worked as a FullStack developer using [MongoDB Express Vue & Node] stack and as a Frontend developer using MithrilJS
+🌱 I have worked as a FullStack developer on companies and as a freelancer using multiple technologies, mainly [MongoDB, Express & Node] on the backend and [ReactJS & MithrilJS] on the frontend.
 
-🤔 I'm really into any kind of programming and always trying to learn about the newest technologies.
+🤔 I'm really into any kind of programming and always trying to learn about the newest technologies and best coding practices.
 
 - You can contact me via [email](mailto:pepeperezvalenzuela@gmail.com) (pepeperezvalenzuela@gmail.com)
 
